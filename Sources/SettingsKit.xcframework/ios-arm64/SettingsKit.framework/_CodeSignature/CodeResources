@@ -4,53 +4,37 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CToObjCBridge.h</key>
+		<key>Frameworks/PhoneSipManager.framework/Info.plist</key>
 		<data>
-		fYFolkh0aWVJiFhXABLGCZb1THc=
+		ZeGCdz0laBgqQRHCJSTV64MEMMU=
 		</data>
-		<key>Headers/CallKitManager.h</key>
+		<key>Frameworks/PhoneSipManager.framework/PhoneSipManager</key>
 		<data>
-		KVynSP2VECwUdlhJe6OmL+AKTHQ=
+		vRRwJukTu06+K+WsBYc66e2jms4=
 		</data>
-		<key>Headers/IncomingPushCallObject.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		8gXGBsv1nqQysT2j1gMjlNrcuOs=
+		L6/N+y1rw1Iu6+ojxZPVWBGgttw=
 		</data>
-		<key>Headers/ParsingCategories.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeRequirements</key>
 		<data>
-		93YDYZbC9QgqdU1W9Rv8Yi0UUGA=
+		noH3lxIcrJQxuiFjJAKbCwDSWhg=
 		</data>
-		<key>Headers/PhoneConstant.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		TEVBj5s0dA2wE6yZwjbEpCE63Q4=
+		ycYmr+mdShiAo6uUVtsExkQvzZM=
 		</data>
-		<key>Headers/PushRegistryManager.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeResources</key>
 		<data>
-		30maVTLwMM4TIxUkr3pxQ8YIhtw=
+		jqXC7eP2aZ9Hw34Sw0vwdpsIzXo=
 		</data>
-		<key>Headers/SIPConstant.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		yzUX4Nfg1mt3IGBfkQp/HippCZo=
+		264SUrjGjWakpEvqcENnBe/wp8k=
 		</data>
 		<key>Headers/SettingsKit.h</key>
 		<data>
 		WY8149na73j0QeG9xBzfXfSxQP0=
-		</data>
-		<key>Headers/SipCallInfo.h</key>
-		<data>
-		slPn4R/m+SrNwQDCXbjn65K5fTQ=
-		</data>
-		<key>Headers/SipDataManager.h</key>
-		<data>
-		/2WaJjZMuzLoKbXYEMtcF7xYEGQ=
-		</data>
-		<key>Headers/SipManagerBridge.h</key>
-		<data>
-		1y29VO2tGq8fYeg8KLgTMjRUHBg=
-		</data>
-		<key>Headers/SipRegisterInfo.h</key>
-		<data>
-		yWQ151ocQUCsYpN8af0AfBNn4zE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -71,53 +55,53 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CToObjCBridge.h</key>
+		<key>Frameworks/PhoneSipManager.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PT2+N6VIO1dpIdoxY/JV2pxV4RN7Uy5NxblZCJZAgdw=
+			YjWRsdT/mPjpdN7d/hlLY3zUMCMJCawkMNx1C9mtkFU=
 			</data>
 		</dict>
-		<key>Headers/CallKitManager.h</key>
+		<key>Frameworks/PhoneSipManager.framework/PhoneSipManager</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IELdrDLRxBT5KobSogIfrM9KamCuRpl0DzR5jmGpSd0=
+			puYgyFVLR6enNBdjxA75Apuo0xcfJtZOcQhtiflhbY0=
 			</data>
 		</dict>
-		<key>Headers/IncomingPushCallObject.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/aDD+e5e23zCT47CcJ15PYLzFXp4Q19G7JbQ65GgZMo=
+			0C7tyQMFxKss6sGM//AtJggZi/ixcIW+jW8hZs+kJKc=
 			</data>
 		</dict>
-		<key>Headers/ParsingCategories.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeRequirements</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9IpyQtiheAmGX9ep5cS00uUprqjJhCbfSizZ20oB83Y=
+			2FohqqCvXCC/cp/RZydAwBzt/lbO5n9FVoE/W9mlqWY=
 			</data>
 		</dict>
-		<key>Headers/PhoneConstant.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeRequirements-1</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6HgqF1kge1alnn7RsT61oYynM4WahwaF+rNzkHy3Nb0=
+			6bDMUl+jro9FVlS79uGV9fFy3iDv9mS0fstUcDU5dXo=
 			</data>
 		</dict>
-		<key>Headers/PushRegistryManager.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P4wsZEh9rv3l2gKGwiNEEnOyCFC4lU8FBUsbtxAPh7Y=
+			JR37RvuHs5zx1FePBLbhPHU6eaCjCMhlQZwtitc6bNE=
 			</data>
 		</dict>
-		<key>Headers/SIPConstant.h</key>
+		<key>Frameworks/PhoneSipManager.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yWY6J23QB839qxOd5vTGsjcWSTD9xcfkfzdbsq6zK7M=
+			cyqTbsez3nKos+qlEFlcd8craODO4nfPaKVQXIFwMK8=
 			</data>
 		</dict>
 		<key>Headers/SettingsKit.h</key>
@@ -125,34 +109,6 @@
 			<key>hash2</key>
 			<data>
 			cDh8obAvFaCTEsRnMhStniXxYjzlZ04zNeVcISyr2qo=
-			</data>
-		</dict>
-		<key>Headers/SipCallInfo.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pD0meofM58uoGvbHoawwR8y7Taqa+mgCt2kcQfRi9CA=
-			</data>
-		</dict>
-		<key>Headers/SipDataManager.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dDKyjAfcZS/sB9BmFEUcOjXWA1u94GkoGorMRWkZe0Y=
-			</data>
-		</dict>
-		<key>Headers/SipManagerBridge.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Uo5qcXRgITFi2Jd41KhSLMDwE9YoDx7ZqgAVGm5m6Ec=
-			</data>
-		</dict>
-		<key>Headers/SipRegisterInfo.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zmcQmJfGrbF4jd/fnWpMtRiS8qXVFN/DJ7BmWpBcdwo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
