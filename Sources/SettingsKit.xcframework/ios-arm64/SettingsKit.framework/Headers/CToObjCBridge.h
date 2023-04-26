@@ -27,8 +27,7 @@ typedef enum
 	SIP_CALL_STATE_STREAM_STARTED_WITH_CODEC,
 	SIP_CALL_STATE_DISCONNECTED_OTHER,
 	SIP_CALL_STATE_CONNECTING,
-	SIP_CALL_STATE_REMOTE_DISCONNECTED,
-    SIP_CALL_STATE_DISCONNECTING
+	SIP_CALL_STATE_REMOTE_DISCONNECTED
 
 
 	
@@ -61,7 +60,6 @@ typedef enum
 
 void updateCallState(SIP_CALL_STATE state, const char * _Nonnull callUDID ,const char * _Nullable msgbody , long  callDuration);
 void updateRegistrationState(SIP_STORE_ACCOUNT_STATE state);
-void makeNewIncomingCall(int callId, const char * _Nullable msgbody);
 void updateCallVideoInfo(int wid , int index , const char * _Nonnull callUUID);
 void updateCallCodecName(const char * _Nonnull codec, const char * _Nonnull callUUID);
 
@@ -70,7 +68,7 @@ void updateMediaInfo(SIP_CALL_MEDIA_EVENT event , const char * _Nonnull callUUID
 void startOutboundRingingTone(void);
 void stopOutboundRingingTone(void);
 
+void newIncomingCall(int callid , const char * _Nullable prmmessage);
 void newIncomingMessage(const char * _Nullable messagebody);
-void newIncomingCall(const char * _Nonnull callID , const char * _Nullable msgBody , const char * _Nonnull callerInfo);
 
 #endif

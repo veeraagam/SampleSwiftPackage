@@ -12,8 +12,8 @@
 
 @class SipCallInfo;
 
-static const NSInteger ADDefaultMaximumCallsPerCallGroup = 1;
-static const NSInteger ADDefaultMaximumCallGroups = 1;
+static const NSInteger ADDefaultMaximumCallsPerCallGroup = 5;
+static const NSInteger ADDefaultMaximumCallGroups = 5;
 
 static NSString * const _Nonnull SIPCallConnecting = @"Connecting...";
 static NSString * const _Nonnull SIPCallConnected = @"Connected";
